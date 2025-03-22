@@ -1,4 +1,4 @@
-# Rex-AI-Interview-Chatbot
+# AI-Interview-Chatbot
 
 ## Description
 
