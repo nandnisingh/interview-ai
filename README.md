@@ -36,13 +36,6 @@ Explain how to use the application:
 - **GPT-3.5-Turbo**: OpenAI's GPT-3.5-Turbo model for fast answering.
 
 
-## Demonstration
-
-[Rex AI Interview Prep Presentation](https://www.youtube.com/watch?v=ra9E84YI1l4)
-
-[Rex AI Interview Prep Walkthrough](https://www.youtube.com/watch?v=t6ZPUlb_a2Y)
-
-
 
 ## Screenshots
 
@@ -54,10 +47,3 @@ Explain how to use the application:
 ![General Questioning](https://i.imgur.com/Rkosl69.png)
 
 
-## Contribution
-
-- **P9 Galaxy Guardians**
-
-## License
-
-MIT License
